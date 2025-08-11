@@ -1,8 +1,15 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+该网站基于 [Jekyll](http://jekyllrb.com/) 静态网站生成器构建，采用了[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) 主题，并托管于 [GitHub Pages](https://pages.github.com/)。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+#### 图片资产
+
+- [avatar.png](/assets/images/avatar.png)
+
+#### 文件资产
+
+- [gd.7z](/assets/files/gd.7z)
+- [ms.7z](/assets/files/ms.7z)
