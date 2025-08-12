@@ -11,5 +11,4 @@ title: "关于"
 
 #### 文件资产
 
-- [gd.7z](/assets/files/gd.7z)
 - [ms.7z](/assets/files/ms.7z)
